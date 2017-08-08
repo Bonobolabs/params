@@ -24,9 +24,19 @@
     "ja": "http://bonobolabs.com"
   },
   "okTitle": {
-    "en": "Ok"
+    "en": "Ok",
+    "fr": "Ok",
+    "it": "Ok",
+    "de": "Ok",
+    "zh": "Ok",
+    "ja": "Ok"
   },
   "cancelTitle": {
-    "en": "Cancel"
+    "en": "Cancel",
+    "fr": "Cancel",
+    "it": "Cancel",
+    "de": "Cancel",
+    "zh": "Cancel",
+    "ja": "Cancel"
   }
 }
