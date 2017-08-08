@@ -23,5 +23,11 @@
     "de": "http://bonobolabs.com",
     "zh": "http://bonobolabs.com",
     "ja": "http://bonobolabs.com"
+  },
+  "okTitle": {
+    "en": "Ok"
+  },
+  "cancelTitle": {
+    "en": "Cancel"
   }
 }
