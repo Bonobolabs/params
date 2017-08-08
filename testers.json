@@ -1,0 +1,19 @@
+{
+  "languages": [
+    "en",
+    "fr",
+    "it",
+    "de",
+    "zh",
+    "ja"
+  ],
+  "enabled": true,
+  "strings": {
+    "en": "We're creating something new! Would you like to be involved and help test it?",
+    "fr": "",
+    "it": "",
+    "de": "",
+    "zh": "",
+    "ja": ""
+  }
+}
