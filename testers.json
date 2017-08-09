@@ -7,8 +7,16 @@
     "zh",
     "ja"
   ],
+  "titles": {
+    "en": "We’re working on an exciting new app!",
+    "fr": "",
+    "it": "",
+    "de": "",
+    "zh": "",
+    "ja": ""
+  },
   "strings": {
-    "en": "We're creating something new! Would you like to be involved and help test it?",
+    "en": "Would you like to be part of our private testing group and try it out?",
     "fr": "",
     "it": "",
     "de": "",
@@ -24,7 +32,7 @@
     "ja": "http://bonobolabs.com"
   },
   "okTitle": {
-    "en": "Ok",
+    "en": "Yes please!",
     "fr": "Ok",
     "it": "Ok",
     "de": "Ok",
@@ -32,7 +40,7 @@
     "ja": "Ok"
   },
   "cancelTitle": {
-    "en": "Cancel",
+    "en": "No thanks",
     "fr": "Cancel",
     "it": "Cancel",
     "de": "Cancel",
