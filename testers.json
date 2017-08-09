@@ -1,12 +1,5 @@
 {
-  "languages": [
-    "en",
-    "fr",
-    "it",
-    "de",
-    "zh",
-    "ja"
-  ],
+  "languages": [],
   "titles": {
     "en": "We’re working on an exciting new app!",
     "fr": "",
