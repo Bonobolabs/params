@@ -2,19 +2,19 @@
   "languages": [],
   "titles": {
     "en": "We’re working on an exciting new app!",
-    "fr": "",
-    "it": "",
-    "de": "",
-    "zh": "",
-    "ja": ""
+    "fr": "Nous sommes en train de travailler sur une nouvelle application géniale !",
+    "it": "Stiamo lavorando a una nuova app spettacolare!",
+    "de": "Wir arbeiten an einer aufregenden neuen App!",
+    "zh": "我们正在开发一款令人兴奋的新应用！",
+    "ja": "私たちはエキサイティングな新しいアプリに取り組んでいます！"
   },
   "strings": {
     "en": "Would you like to be part of our private testing group and try it out?",
-    "fr": "",
-    "it": "",
-    "de": "",
-    "zh": "",
-    "ja": ""
+    "fr": "Aimeriez-vous faire partie de notre groupe de test privé et l'essayer ?",
+    "it": "Vuoi entrare a far parte del nostro esclusivo gruppo di tester per provarla?",
+    "de": "Möchtest du gerne Teil unserer privaten Testgruppe werden und sie testen?",
+    "zh": "你愿意加入我们的私人测试组并试用一下吗？",
+    "ja": "非公開テストグループに参加して、アプリを試してみませんか？"
   },
   "urls": {
     "en": "https://bonobolabs.typeform.com/to/sK177L?lang=en",
@@ -26,18 +26,18 @@
   },
   "okTitle": {
     "en": "Yes please!",
-    "fr": "Ok",
-    "it": "Ok",
-    "de": "Ok",
-    "zh": "Ok",
-    "ja": "Ok"
+    "fr": "Oui, je veux bien !",
+    "it": "Sì, grazie!",
+    "de": "Ja, bitte!",
+    "zh": "好的！",
+    "ja": "はい、参加します！"
   },
   "cancelTitle": {
     "en": "No thanks",
-    "fr": "Cancel",
-    "it": "Cancel",
-    "de": "Cancel",
-    "zh": "Cancel",
-    "ja": "Cancel"
+    "fr": "Non merci",
+    "it": "No, grazie",
+    "de": "Nein, danke!",
+    "zh": "不用，谢谢",
+    "ja": "いいえ、結構です"
   }
 }
