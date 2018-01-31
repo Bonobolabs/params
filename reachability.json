@@ -1,0 +1,4 @@
+{
+  "ProxyServerHostname" : "msksuiteapi.com",
+  "FirebaseReachabilityTestHostname" : "https://www.googleapis.com"
+}
