@@ -1,3 +1,4 @@
 {
-  "enableActionsButton" : true
+  "enableActionsButton" : true,
+  "enableTimepageButton" : true
 }
