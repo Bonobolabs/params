@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "initialInterval": 1382400,
+  "initialInterval": 172800,
   "intervalBetweenPrompt": 7776000
 }
